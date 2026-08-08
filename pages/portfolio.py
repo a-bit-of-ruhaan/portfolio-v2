@@ -288,8 +288,8 @@ st.markdown("""
 <div class="footer_container">
     <p class="footer_text">Designed & Developed by Ruhaan Kapoor</p>
     <div class="footer_links">
-        <a class="footer_social_link" href="https://github.com" target="_blank">GitHub Profile</a>
-        <a class="footer_social_link" href="https://streamlit.io" target="_blank">Streamlit Community Cloud</a>
+        <a class="footer_social_link" href="https://github.com/a-bit-of-ruhaan/portfolio-v2" target="_blank">GitHub Profile</a>
+        <a class="footer_social_link" href="https:"https://share.streamlit.io/" target="_blank">Streamlit Community Cloud</a>
     </div>
 </div>
 """, unsafe_allow_html=True)
