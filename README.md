@@ -39,7 +39,7 @@ The idea was to build something from scratch, experiment with the design, and ha
 🚀 Live Portfolio
 
 Visit the portfolio:
-https://ruhaan-dev-bit.github.io/portfolio-v1/
+https://portfolio-v2.streamlit.app/
 
 📌 Purpose
 
