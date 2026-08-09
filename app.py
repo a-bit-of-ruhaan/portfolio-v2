@@ -192,32 +192,7 @@ st.markdown(
     </div>
     """, 
     unsafe_allow_html=True
-)
-
-# Top Columns Section
-col1, col2 = st.columns([2, 1])
-
-with col1:
-    st.markdown(
-        """
-        <div class="column-box">
-            <h2>To make this, I used HTML with Streamlit's column tag</h2>
-            <p>Combining CSS with native Streamlit components gives you full design control.</p>
-        </div>
-        """, 
-        unsafe_allow_html=True
-    )
-
-with col2:
-    st.markdown(
-        """
-        <div class="column-box">
-            <h2>Why is this column small?</h2>
-            <p>I used a 2:1 ratio for making these columns layout side-by-side.</p>
-        </div>
-        """, 
-        unsafe_allow_html=True
-    )
+)
 
 # About Me Section
 st.markdown(
